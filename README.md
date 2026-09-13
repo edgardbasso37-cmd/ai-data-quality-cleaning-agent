@@ -50,7 +50,7 @@ Clean Dataset
 
 ## 👨‍💻 Author
 
-**Edgard BASSO **
+**Edgard BASSO**
 AI Engineer · Data Engineering · Generative AI · Risk Analytics
 
 
