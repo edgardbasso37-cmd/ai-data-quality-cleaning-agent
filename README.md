@@ -50,7 +50,7 @@ Clean Dataset
 
 ## 👨‍💻 Author
 
-**Steve Edgard BASSO NGOUNE**
+**Edgard BASSO **
 AI Engineer · Data Engineering · Generative AI · Risk Analytics
 
 
